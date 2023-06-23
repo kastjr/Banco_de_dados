@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "6495a60a20350ee2a2cc5c71"
+  },
+  "cliente_id": "64958e6b20350ee2a2cc5c53",
+  "status": true,
+  "produtos": {
+    "id_produto": "2",
+    "valor_da_venda": "200",
+    "quantidade": "4"
+  },
+  "forma_de_pagamento": "pix"
+},
+{
+  "_id": {
+    "$oid": "6495a92320350ee2a2cc5c72"
+  },
+  "cliente_id": "64958e6b20350ee2a2cc5c53",
+  "status": true,
+  "produtos": {
+    "id_produto": "2",
+    "valor_da_venda": "200",
+    "quantidade": "4",
+    "id_produto2": "3",
+    "valor_venda2": "100",
+    "qtd2": "2"
+  },
+  "forma_de_pagamento": "pix",
+  "produto_cancelado": {
+    "id_produto": "5"
+  }
+}]
