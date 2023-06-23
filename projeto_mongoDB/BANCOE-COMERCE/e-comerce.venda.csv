@@ -1,0 +1,3 @@
+_id,cliente_id,status,produtos.id_produto,produtos.valor_da_venda,produtos.quantidade,forma_de_pagamento,produtos.id_produto2,produtos.valor_venda2,produtos.qtd2,produto_cancelado.id_produto
+6495a60a20350ee2a2cc5c71,64958e6b20350ee2a2cc5c53,true,2,200,4,pix,,,,
+6495a92320350ee2a2cc5c72,64958e6b20350ee2a2cc5c53,true,2,200,4,pix,3,100,2,5
